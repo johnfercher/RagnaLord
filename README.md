@@ -9,8 +9,7 @@
 
 ## 4º Copie o conteúdo dessa pasta (myragnarok) e cole na pasta do KRO
 
-## 5º Atualize os arquivos: rsu-kro-rag-lite.exe e rsu-kro-renewal-lite.exe
-> Os que não possuem UPDATE no final do nome
+## 5º Atualize os arquivos: rsu-kro-rag-lite-UPDATER.exe e rsu-kro-renewal-lite-UPDATER.exe
 
 ## 6º Peça uma conta para: https://www.facebook.com/johnathan.fercher
 
